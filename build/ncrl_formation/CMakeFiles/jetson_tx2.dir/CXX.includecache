@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/formation_ws/src/ncrl_formation/include/flight_control/jetsonConstants.h
+
+/home/ubuntu/formation_ws/src/ncrl_formation/include/flight_control/jetsonStatus.h
+
+/home/ubuntu/formation_ws/src/ncrl_formation/include/flight_control/jetsonTX2GPIO.cpp
+stdio.h
+-
+fcntl.h
+-
+unistd.h
+-
+string.h
+-
+ctype.h
+-
+jetsonTX2GPIO.h
+/home/ubuntu/formation_ws/src/ncrl_formation/include/flight_control/jetsonTX2GPIO.h
+
+/home/ubuntu/formation_ws/src/ncrl_formation/include/flight_control/jetsonTX2GPIO.h
+jetsonStatus.h
+/home/ubuntu/formation_ws/src/ncrl_formation/include/flight_control/jetsonStatus.h
+jetsonConstants.h
+/home/ubuntu/formation_ws/src/ncrl_formation/include/flight_control/jetsonConstants.h
+
